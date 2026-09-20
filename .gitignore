@@ -1,0 +1,17 @@
+.lake/
+.beam/
+.agents/
+.codex/
+_slides/
+_out/
+.worktrees/
+*.olean
+*.ilean
+*.c
+*.o
+*.so
+*.dll
+*.dylib
+*.exe
+__pycache__/
+.DS_Store
